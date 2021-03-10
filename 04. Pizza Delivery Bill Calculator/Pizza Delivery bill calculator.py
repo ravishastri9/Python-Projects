@@ -1,3 +1,5 @@
+"Program to find out bill of different pizza size"
+
 print("Welcome to the Python Pizza Deliveries ")
 size = input("What size would you like to order? S, M, L ")
 add_pepperoni = input("Do you want pepperoni? Y or N ")

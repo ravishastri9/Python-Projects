@@ -1,3 +1,5 @@
+"It will find out the love score of a couple"
+
 print("Welcome to love calculator!")
 name1 = input("What is your name? \n")
 name2 = input("what is your name? \n")

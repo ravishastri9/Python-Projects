@@ -1,3 +1,5 @@
+"It will choose a random person from a list of person to pay the bill."
+
 import random
 test_seed = int(input("Create a seed number: "))
 random.seed(test_seed)
